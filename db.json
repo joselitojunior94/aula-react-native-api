@@ -1,7 +1,7 @@
 {
     "users": [
       { "id": 1, "email": "guest@guest.com", "pass": "1234567" },
-      { "id": 2, "title": "teste@teste.com", "author": "56789" }
+      { "id": 2, "email": "teste@teste.com", "pass": "56789" }
     ],
     "keys": [
         { "id": 1, "name": "E-mail 01", "pass": "1234567" },
